@@ -83,8 +83,6 @@
                     @endphp
                    
                    {{-- {{$posts}} --}}
-                
-
 
                   @foreach ($post as $post)
                    
@@ -113,26 +111,11 @@
                       <hr>
 
 
-                
-                    {{-- <tr class="tableRow">
-                  
-                    <td><img src="{{ $post->image }}" alt="{{ $post->title }}" width="200px" height="180px"></td>
-
-
-                      <td><b>Found: </b>{{$post->found}} <br>
-                        <b>Contact: </b>{{$post->contact}} <br>
-                        <b>Date: </b>{{$post->created_at}}
-                      </td>
-
-
-                      <td><b>Location: </b><br>{{$post->place}}</td>
-                     
-
-                    </tr> --}}
+        
                     
                @endforeach 
                
-            {{-- </table> --}}
+            
 
           </div>
           
