@@ -12,6 +12,6 @@ It is a web application where user can post, search and view their lost item as 
 </ul>
 
 <h4>Front page</h4>
-<img src ="img/home.png"><br>
+<img src ="home.png"><br>
 <h4>Lost Post page</h4>
-<img src ="img/t1.png"><br>
+<img src ="t1.png"><br>
