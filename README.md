@@ -3,7 +3,7 @@ It is a web application where user can post, search and view their lost item as 
 
 <b>Used Tools</b>
 <ul>
-  <li>Laravel<li>
+  <li>Laravel</li>
   <li>PHP 7.1.20</li>
   <li>MySQL</li>
   <li>Ajax</li>
